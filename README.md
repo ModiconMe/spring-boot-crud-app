@@ -1,5 +1,5 @@
 # Описание проекта
-SPRING BOOR IMPLEMENTATION
+SPRING BOOT IMPLEMENTATION
 
 Проект реализует базовую логику библиотеки:
 * создание аккаунта человека
